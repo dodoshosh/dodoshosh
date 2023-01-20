@@ -1,7 +1,7 @@
 ![MasterHead](https://servreality.com/wp-content/uploads/2020/07/C-Development-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Ido Shoshani</h1>
 <h3 align="center">I am a passionate student with a deep love for the cyber security world, I am also a skilled developer dedicated to staying at the forefront of technological advancements in this field</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dodoshosh&label=Profile%20views&color=0e75b6&style=flat" alt="dodoshosh" /> </p>
 
