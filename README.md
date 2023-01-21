@@ -1,4 +1,4 @@
-![MasterHead](https://servreality.com/wp-content/uploads/2020/07/C-Development-Banner.jpg)
+![MasterHead](https://2.bp.blogspot.com/-ZVF6MGMGzhk/XnpStE1N1EI/AAAAAAAAEtc/a0GA8nmG2bcnBfuiTG9LiKz-2pqkXAuNQCLcBGAsYHQ/s640/Firebase_KTX.jpg)
 <h1 align="center">Hi 👋, I'm Ido Shoshani</h1>
 <h3 align="center">I am a passionate student with a deep love for the cyber security world, I am also a skilled developer dedicated to staying at the forefront of technological advancements in this field</h3>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
