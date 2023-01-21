@@ -1,21 +1,21 @@
 ![MasterHead](https://2.bp.blogspot.com/-ZVF6MGMGzhk/XnpStE1N1EI/AAAAAAAAEtc/a0GA8nmG2bcnBfuiTG9LiKz-2pqkXAuNQCLcBGAsYHQ/s640/Firebase_KTX.jpg)
 <h1 align="center">Hi 👋, I'm Ido Shoshani</h1>
-<h3 align="center">I am a passionate student with a deep love for the cyber security world, I am also a skilled developer dedicated to staying at the forefront of technological advancements in this field</h3>
+<h3 align="center">I am a passionate student with a deep love for the cyber security world,and also a skilled developer dedicated to staying at the forefront of technological advancements in this field.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dodoshosh&label=Profile%20views&color=0e75b6&style=flat" alt="dodoshosh" /> </p>
 
 - 🔭 I’m currently working on **developing a tool that can efficiently locate vulnerabilities in websites**
 
-- 🌱 I’m currently learning **virustotal api,mongodb,react,XSS,SQL inection,SCRF,SSRF,command injection**
+- 🌱 I’m currently learning **virustotal api, mongodb, react, XSS, SQL inection, SCRF, SSRF, command injection**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dodoshosh](https://github.com/dodoshosh)
 
-- 💬 Ask me about **vulnerabilities in websites,CTF competitions**
+- 💬 Ask me about **vulnerabilities in websites and CTF competitions**
 
 - 📫 How to reach me **idos52856@gmail.com**
 
-- ⚡ Fun fact **I love motorcycle**
+- ⚡ Fun fact **I love motorcycles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
