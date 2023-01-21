@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **idos52856@gmail.com**
 
-- ⚡ Fun fact **I love my motorcycle**
+- ⚡ Fun fact **I love motorbikes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
