@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing a tool that can efficiently locate vulnerabilities in websites**
 
-- 🌱 I’m currently learning **virustotal api,mongodb,react,xss,sql,csrf,ssrf,ci**
+- 🌱 I’m currently learning **virustotal api,mongodb,react,XSS,SQL inection,SCRF,SSRF,command injection**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dodoshosh](https://github.com/dodoshosh)
 
